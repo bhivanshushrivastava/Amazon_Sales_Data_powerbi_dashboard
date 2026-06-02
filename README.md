@@ -1,4 +1,4 @@
-# 📊 Amazon Product Analysis Dashboard (Power BI)
+# 📊 Amazon Sales Analysis Dashboard (Power BI)
 
 ## 🧠 Project Overview
 
