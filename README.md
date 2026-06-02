@@ -1,5 +1,3 @@
-The Amazon Product Analysis Dashboard is an interactive Power BI report developed to analyze product pricing, discounts, ratings, reviews, and category performance. The dashboard provides a comprehensive view of Amazon product data, helping identify top-performing categories, pricing trends, and customer engagement patterns.
-
 # 📊 Amazon Product Analysis Dashboard (Power BI)
 
 ## 🧠 Project Overview
