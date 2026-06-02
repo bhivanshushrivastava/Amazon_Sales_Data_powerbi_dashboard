@@ -1,5 +1,3 @@
-# Amazon_Sales_Data_powerbi_dashboard
-This Power BI project analyzes Amazon product data, including ratings, reviews, prices, discounts, and product categories. The dashboard helps identify trends and insights through interactive visualizations and data analysis.
 # 📊 Amazon Product Analysis Dashboard (Power BI)
 
 ## 🧠 Project Overview
@@ -145,7 +143,7 @@ Amazon-Product-Analysis-Dashboard
 
 ## 📸 Dashboard Preview
 
-<img width="100%" alt="Amazon Product Analysis Dashboard" src="Dashboard_Screenshot.png">
+https://github.com/bhivanshushrivastava/Amazon_Sales_Data_powerbi_dashboard/blob/main/Amazon_sales_data_pnd.png
 
 ---
 
