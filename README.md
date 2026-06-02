@@ -1,3 +1,5 @@
+The Amazon Product Analysis Dashboard is an interactive Power BI report developed to analyze product pricing, discounts, ratings, reviews, and category performance. The dashboard provides a comprehensive view of Amazon product data, helping identify top-performing categories, pricing trends, and customer engagement patterns.
+
 # 📊 Amazon Product Analysis Dashboard (Power BI)
 
 ## 🧠 Project Overview
@@ -131,12 +133,13 @@ Average Selling Price = AVERAGE(Amazon[discounted_price])
 ## 📂 Project Structure
 
 ```text
-Amazon-Product-Analysis-Dashboard
-│
-├── Amazon_Product_Analysis.pbix
-├── Dashboard_Screenshot.png
-├── README.md
-└── Amazon_Dataset.xlsx
+  Amazon-Product-Analysis-Dashboard
+
+| Amazon_Product_Analysis.pbix
+| Dashboard_Screenshot.png
+| README.md
+| Amazon_Dataset.xlsx
+| amazon.csv
 ```
 
 ---
