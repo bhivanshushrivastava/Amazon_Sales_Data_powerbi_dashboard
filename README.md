@@ -1,6 +1,6 @@
-# 📊 Amazon Sales Analysis Dashboard (Power BI)
+# Amazon Sales Analysis Dashboard (Power BI)
 
-## 🧠 Project Overview
+## Project Overview
 
 The Amazon Product Analysis Dashboard is an interactive Power BI report developed to analyze product pricing, discounts, ratings, reviews, and category performance. The dashboard provides a comprehensive view of Amazon product data, helping identify top-performing categories, pricing trends, and customer engagement patterns.
 
@@ -8,7 +8,7 @@ Through data cleaning, transformation, and visualization, the dashboard converts
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The objective of this project is to analyze Amazon product data and uncover trends related to product pricing, discounts, customer ratings, and reviews.
 
@@ -22,7 +22,7 @@ This project demonstrates the ability to:
 
 ---
 
-## 🧩 Dataset Information
+## Dataset Information
 
 The dataset contains product-related information such as:
 
@@ -40,7 +40,7 @@ The dataset contains product-related information such as:
 
 ---
 
-## 🛠️ Data Preparation
+## Data Preparation
 
 The following data cleaning and transformation steps were performed:
 
@@ -55,9 +55,9 @@ The following data cleaning and transformation steps were performed:
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
-### 🔹 Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs)
 
 * Average Discount: **47.7%**
 * Average Rating: **4.10**
@@ -67,7 +67,7 @@ The following data cleaning and transformation steps were performed:
 
 ---
 
-### 🔹 Visualizations Used
+### Visualizations Used
 
 | Visualization          | Description                                     |
 | ---------------------- | ----------------------------------------------- |
@@ -81,7 +81,7 @@ The following data cleaning and transformation steps were performed:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 * Electronics is the largest product category in the dataset.
 * Computers & Accessories and Home & Kitchen also contribute significantly to product volume.
@@ -93,7 +93,7 @@ The following data cleaning and transformation steps were performed:
 
 ---
 
-## 🧮 DAX Measures Used
+## DAX Measures Used
 
 ```DAX
 Total Products = DISTINCTCOUNT(Amazon[product_id])
@@ -109,7 +109,7 @@ Average Selling Price = AVERAGE(Amazon[discounted_price])
 
 ---
 
-## 🎨 Dashboard Design Highlights
+## Dashboard Design Highlights
 
 * Dark-themed professional dashboard layout
 * Interactive slicers for dynamic filtering
@@ -119,7 +119,7 @@ Average Selling Price = AVERAGE(Amazon[discounted_price])
 
 ---
 
-## 🚀 Tools & Technologies Used
+## Tools & Technologies Used
 
 * Microsoft Power BI Desktop
 * Power Query
@@ -128,7 +128,7 @@ Average Selling Price = AVERAGE(Amazon[discounted_price])
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
   Amazon-Product-Analysis-Dashboard
@@ -142,12 +142,12 @@ Average Selling Price = AVERAGE(Amazon[discounted_price])
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 https://github.com/bhivanshushrivastava/Amazon_Sales_Data_powerbi_dashboard/blob/main/Amazon_sales_data_pnd.png
 
 ---
 
-## 🗣️ Project Summary
+## Project Summary
 
 I built this Power BI dashboard to analyze Amazon product ratings, pricing, discounts, reviews, and category performance. Using Power Query for data transformation and DAX for calculations, I created an interactive dashboard that helps identify top-performing categories, pricing patterns, customer engagement trends, and product performance insights. The project demonstrates end-to-end data analytics skills, including data cleaning, modeling, visualization, and business intelligence reporting.
